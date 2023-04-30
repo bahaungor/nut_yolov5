@@ -1,4 +1,4 @@
-# Hubnut Detection with YOLOv5
+# Wheel Nut Detection with Artificial Intelligence - YOLOv5
 
 ## Introduction
 This repository contains the actual training code (`Hubnut Detection W Yolov5.ipynb`) used to develop a YOLOv5 model that can detect incorrect or missing wheel nut installation on vehicles. The model uses image processing and data augmentation techniques to train on a dataset of images containing both correctly and incorrectly installed nuts. The model also ensures the correct type of nut is installed, as there are 6 different types of nuts.

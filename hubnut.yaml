@@ -1,0 +1,5 @@
+train: ../train_images.txt
+val: ../val_images.txt
+nc: 6
+names: [NORMAL NUT, PARLAK KLT NUT, PARLAK NUT, SIYAH KLT NUT, SIYAH NUT, YUVARLAK
+    NUT]

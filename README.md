@@ -1,6 +1,6 @@
 # Wheel Nut Detection with Artificial Intelligence - YOLOv5
 Object detection model that can detect 6 types of wheel nut with 100% accuracy.
-![Image of the project](./images/project-image.png)
+![Image of the project](./images/project-image.jpg)
 
 # Table Of Content
 - [Introduction](#introduction)
